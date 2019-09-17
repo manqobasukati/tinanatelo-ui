@@ -10,7 +10,7 @@ var HomePage = Vue.component('home-page', {
 							
 						</div>
 						<div class="col-md-6 title">
-							<h1>Tinanatelo temaSwati</h1>
+							<h1>Tinana temaSwati</h1>
 						</div>
 						<div class="col-md-3">
 						</div>
