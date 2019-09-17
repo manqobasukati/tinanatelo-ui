@@ -93,7 +93,6 @@ var SurnamePage = Vue.component('surname-page',{
 </div>
 	`,
 	props:['user_id'],
-	template:'#surname-page',
 	data(){
 		return{
 			surnameType:{
